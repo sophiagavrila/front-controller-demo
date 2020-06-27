@@ -6,7 +6,7 @@ A demo on how to create a Front-Controller within a Java Web Application
 The front controller design pattern provides a **single handler** for all the incoming requests for a resource in an application, and then **dispatches** the requests to the appropriate secondary handler for that type of request. The front controller may use other **helper** APIs to achieve the dispatching mechanism.
 
 
-![](./images/frontctrller.gif)
+![](./images/front-controller.png)
 
 
 **Front Controller** - The Front controller is a single entry point for all requests, and routes incoming user requests.  It delegates to a dispatcher to perform action and view management.
