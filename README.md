@@ -1,5 +1,3 @@
-### test
-
 # front-controller-demo
 100% pure redemption. A demo on how to create a Front-Controller within a Java Web Application
 
