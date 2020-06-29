@@ -1,5 +1,5 @@
 # front-controller-demo
-A demo on how to create a Front-Controller within a Java Web Application
+100% pure redemption. A demo on how to create a Front-Controller within a Java Web Application
 
 ## Front Controller Design Pattern
 
